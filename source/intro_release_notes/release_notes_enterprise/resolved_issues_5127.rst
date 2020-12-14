@@ -29,3 +29,4 @@ The following issues has been solved in 5.12.7:
 - `Fix core per sockets input on Sunstone create dialog <http://github.com/OpenNebula/one/issues/5117>`__.
 - `Fix vCenter IM memory leak <http://github.com/OpenNebula/one/issues/5201>`__.
 - `Fix crash and speed up oneshowback calculate <https://github.com/OpenNebula/one/issues/5020>`__.
+- `Added remove template and images when delete a service <https://github.com/OpenNebula/one/issues/4967>`__. 
